@@ -1,0 +1,1 @@
+window.loadPage("all_task");
